@@ -1,7 +1,7 @@
 <h1 align="center">Hello World ! 👋</h1>
 
 <p align="center">
-  Étudiant en 2e année de BUT R&T (parcours DÉPLOI). Je m'oriente vers la cybersécurité, avec un intérêt particulier pour les réseaux et les bases de données.
+  Étudiant en 2e année de BUT Informatique (parcours DÉPLOI). Je m'oriente vers la cybersécurité, avec un intérêt particulier pour les réseaux et les bases de données.
 </p>
 
 ---
