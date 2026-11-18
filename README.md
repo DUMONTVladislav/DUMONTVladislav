@@ -23,7 +23,8 @@
 ### 🚀 Projets en cours
 
 * **Portfolio :** Création de mon site personnel.
-* **DataLab (Projet universitaire) :** Interface simple pour permettre aux étudiants de manipuler du SQL.
+* **DataLab (Projet universitaire) :** Interface éducative pour permettre aux étudiants d'apprendre à manipuler du SQL.
+* **Flexarion :** Stratégie de référencement avancée visant à positionner le site web Flexarion en première position sur Google grâce à différentes techniques de communication.
 
 ---
 
